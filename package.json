@@ -1,0 +1,20 @@
+{
+  "name": "transfer_dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.10",
+    "ethers": "^6.13.2",
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
